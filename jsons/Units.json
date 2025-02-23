@@ -232,6 +232,21 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
+		"name": "Commando",
+		"uniqueTo": "The Afrikaaners",
+		"replaces": "Warrior"
+		"unitType": LandMelee",
+		"movement": 2,
+		"strength": 10,
+		"cost": 10,
+		"obsoleteTech": "Apprenticeship",
+		"upgradesTo": "Man-At-Arms",
+		"uniques": [
+			"[+25]% Strength <vs [Military] units>",
+		].
+		"attackSound:" "nonmetalhit",
+		
+	{
 		"name": "Swordsman",
 		"unitType": "Land Melee",
 		"movement": 2,
