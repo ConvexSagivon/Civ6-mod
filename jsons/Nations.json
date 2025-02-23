@@ -323,6 +323,31 @@
 		]
 	},
 	{
+		"name": "The Boers",
+		"leaderName": "Paul Kruger",
+		"adjective": [
+			"Afrikaans"
+		],
+		"preferredVictoryType": "Domination",
+		"declaringWar": "Your existance encroaches on our desires, you must be subjugated.",
+		"attacked": "What confidence, with such a mistake.",
+		"defeated": "May this defeat further progress the Afrikaans people.",
+		"introduction": "Morning to you, it is an honour to meet you.",
+		"neutralHello": "Moere.",
+		"hateHello": "Morning.",
+		"tradeRequest": "We have a proposal of great fruits to you.",
+		"outerColor": [
+			235,
+			156,
+			9,
+		],
+		"innerColor": [
+			29,
+			27,
+			15
+		],
+		"uniqueName": "
+	{
 		"name": "Brazil",
 		"leaderName": "Pedro II",
 		"adjective": [
